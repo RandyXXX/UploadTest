@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "UploadTest", "UploadTest.njsproj", "{3EE1E211-F038-4BB2-BA94-091AE6F3C508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE1E211-F038-4BB2-BA94-091AE6F3C508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE1E211-F038-4BB2-BA94-091AE6F3C508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE1E211-F038-4BB2-BA94-091AE6F3C508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE1E211-F038-4BB2-BA94-091AE6F3C508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5590B61-CE1D-473F-8DEB-F420D3C7226E}
+	EndGlobalSection
+EndGlobal
